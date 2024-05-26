@@ -1,0 +1,19 @@
+.oddity {
+    background-color: #ff7777;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#second-el {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third-el,
+#fourth-el {
+    font-size: 24px;
+}
+
+#fourth-el {
+    background-color: #82ff6a;
+    font-weight: 700;
+}
